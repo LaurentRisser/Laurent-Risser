@@ -13,6 +13,11 @@ A passionate of big data engineering who wants to help you transform the way com
 • Excellent analytical and problem-solving skills
 • Bilingual English and French 
 
+This portfolio is a compilation of projects which I created for data analysis or for exploration of machine learning algorithms. 
+
+You can connect with my on LinkedIn [here](https://www.linkedin.com/in/risserl/)
+ 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

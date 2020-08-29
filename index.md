@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Laurent Risser Portfolio
 
 You can use the [editor on GitHub](https://github.com/walkyrie67/laurentrisser/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Project 1
 ## Header 2
 ### Header 3
 
@@ -27,6 +27,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+# Project 2
 
 ### Jekyll Themes
 

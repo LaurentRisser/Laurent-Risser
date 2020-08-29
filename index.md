@@ -1,8 +1,8 @@
 ## Welcome to Laurent Risser Portfolio
 
-You can use the [editor on GitHub](https://github.com/walkyrie67/laurentrisser/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ABOUT ME:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This would be a brief description of my background and interest
 
 ### Markdown
 
@@ -12,8 +12,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Project 1
-## Header 2
-### Header 3
+## Get to know your friends with Natural Language Processing (NLP)
+### Medium Article:
+
+https://towardsdatascience.com/get-to-know-your-friends-with-natural-language-processing-nlp-38a1f6e56e09?source=post_stats_page---------------------------
 
 - Bulleted
 - List
@@ -30,10 +32,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 # Project 2
 
-### Jekyll Themes
+# Project 3
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/walkyrie67/laurentrisser/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Project 4
 
-### Support or Contact
+# Project 5
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

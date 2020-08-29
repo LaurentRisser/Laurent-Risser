@@ -11,30 +11,17 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Project 1
-## Get to know your friends with Natural Language Processing (NLP)
-### Medium Article:
-[Medium Article](https://towardsdatascience.com/get-to-know-your-friends-with-natural-language-processing-nlp-38a1f6e56e09?source=post_stats_page---------------------------
-)
-This a brief description of the project
+# Get to know your friends with Natural Language Processing (NLP)
+## Data Visualisation and Data Analysis
+## Medium Article
+## The repo
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# Data Analysis and Correlations of Toronto Real Estate Market
+## Data Analysis, Visualisation and Machine Learning
 
-**Bold** and _Italic_ and `Code` text
+# How to Extract Data from Twitter through Cloud Computing
+# Data Engineering
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-# Project 2
-
-# Project 3
-
-# Project 4
-
-# Project 5
+# Will your flight be late?
+# Data Analysis and Machine Learning

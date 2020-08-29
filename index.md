@@ -2,7 +2,7 @@
 
 ABOUT ME:
 
-A passionate of big data engineering who wants to help you transform the way companies use data and ensuring your architectural design meets the needs of everyone in the company.
+Data Analyst/Scientist who takes pride in building models that translate data points into business insights. Built up my skills in diverse projects, now eager to apply the same knowledge to real-world business problems.
 
 - Strong knowledge in Biology with M.Sc., Biology from Uppsala University.
 - 2+ years of experience in statistical research.
@@ -13,6 +13,7 @@ A passionate of big data engineering who wants to help you transform the way com
 - Experience with visualization tools (Tableau, Matplotlib, ggplot2).
 - Excellent analytical and problem-solving skills.
 - Bilingual English and French.
+- Author for Towards Data Science, Data Driven Investor and Analytics Vidhya on Medium
 
 This portfolio is a compilation of projects which I created for data analysis or for exploration of machine learning algorithms. 
 
@@ -22,24 +23,26 @@ My [Resume](https://drive.google.com/file/d/1atQGP0nNCwwhLvURgtV_-ax-SNvYy4_O/vi
 
 # My projects
 
-
 ## Get to know your friends with Natural Language Processing (NLP)
 ### Data Cleaning, Visualisation and Data Analysis
-### [Medium Article](https://towardsdatascience.com/get-to-know-your-friends-with-natural-language-processing-nlp-38a1f6e56e09) 
+### [Medium Article - Get to know your friends with Natural Language Processing (NLP)](https://towardsdatascience.com/get-to-know-your-friends-with-natural-language-processing-nlp-38a1f6e56e09) 
 
 In this project I wanted to analyze a group chat on WhatsApp. I had to clean and manipulate the data first using REGEX package. Then I explored the dataset and I found some interesting results.
 
 
-## Data Collection, Analysis and Correlations of Toronto Real Estate Market
+## Housing Market, Web scrapping & Analysis
 ### Data Collection, Analysis, Visualisation and Machine Learning
-### [Medium Article](https://medium.com/datadriveninvestor/how-to-scrap-the-housing-market-9081a1610fea?source=friends_link&sk=922dee31b18d73dbc03b1ff17dbffba0) 
-### [Medium Article](https://medium.com/datadriveninvestor/house-pricing-in-toronto-exploratory-data-analysis-and-correlations-45d2f11475f4?source=friends_link&sk=86f7cc2f3b0dc90b3b4aa5f152c82d6e) 
+### [Medium Article - How to Scrap the Housing Market](https://medium.com/datadriveninvestor/how-to-scrap-the-housing-market-9081a1610fea?source=friends_link&sk=922dee31b18d73dbc03b1ff17dbffba0) 
+### [Medium Article - House Pricing in Toronto, Exploratory Data Analysis and Correlations](https://medium.com/datadriveninvestor/house-pricing-in-toronto-exploratory-data-analysis-and-correlations-45d2f11475f4?source=friends_link&sk=86f7cc2f3b0dc90b3b4aa5f152c82d6e) 
 
-## How to Extract Data from Twitter through Cloud Computing
+In this project I extracted the data using beautil soup through web scrapping and also cleaned and manipulated the data using Pandas.
+
+## Social Analysis with Twitter Data
 ### Data Engineering and AWS
-### [Medium Article](https://towardsdatascience.com/how-to-create-a-dataset-with-twitter-and-cloud-computing-fcd82837d313?source=friends_link&sk=b56db9035ff3e59a68fbc19fbf211539) 
+### [Medium Article - How to Create a Dataset with Twitter and Cloud Computing](https://towardsdatascience.com/how-to-create-a-dataset-with-twitter-and-cloud-computing-fcd82837d313?source=friends_link&sk=b56db9035ff3e59a68fbc19fbf211539) 
 
+In this project I setup an ETL flow from the Twitter API to an S3 bucket. I used different services from AWS and I manipulated data by using Python and Shell languages.
 
-## Will your flight be late?
+## Predicting flight delays in the U.S.
 ### Data Analysis and Machine Learning
-### [Medium Article](https://medium.com/analytics-vidhya/will-your-flight-be-late-36818ffe52b3?source=friends_link&sk=b12b06c3463c125b1370650e8b52bc9f) 
+### [Medium Article - Will your flight be late?](https://medium.com/analytics-vidhya/will-your-flight-be-late-36818ffe52b3?source=friends_link&sk=b12b06c3463c125b1370650e8b52bc9f) 

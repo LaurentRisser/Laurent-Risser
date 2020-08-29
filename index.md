@@ -29,6 +29,10 @@ My [Resume](https://drive.google.com/file/d/1atQGP0nNCwwhLvURgtV_-ax-SNvYy4_O/vi
 
 In this project I wanted to analyze a group chat on WhatsApp. I had to clean and manipulate the data first using REGEX package. Then I explored the dataset and I found some interesting results.
 
+![alt text](image.jpg)
+
+![alt text](image.jpg)
+
 
 ## Housing Market, Web scrapping & Analysis
 ### Data Collection, Analysis, Visualisation and Machine Learning

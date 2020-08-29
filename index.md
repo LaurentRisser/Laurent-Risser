@@ -14,8 +14,9 @@ Syntax highlighted code block
 # Project 1
 ## Get to know your friends with Natural Language Processing (NLP)
 ### Medium Article:
-
-https://towardsdatascience.com/get-to-know-your-friends-with-natural-language-processing-nlp-38a1f6e56e09?source=post_stats_page---------------------------
+[Medium Article](https://towardsdatascience.com/get-to-know-your-friends-with-natural-language-processing-nlp-38a1f6e56e09?source=post_stats_page---------------------------
+)
+This a brief description of the project
 
 - Bulleted
 - List

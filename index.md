@@ -1,8 +1,17 @@
-## Welcome to Laurent Risser Portfolio
+## Welcome to my personal portfolio
 
 ABOUT ME:
 
-This would be a brief description of my background and interest
+A passionate of big data engineering who wants to help you transform the way companies use data and ensuring your architectural design meets the needs of everyone in the company.
+
+• Strong knowledge in Biology with M.Sc., Biology from Uppsala University.• 2+ years of experience in statistical research
+• Strong understanding of statistics, machine learning, web scraping and regression and classification. Example packages: numpy, pandas, scikit-learn, LGBM.
+• Practical experience in predictive modelling (logistic regression, decision- tree), NLP and A/B testing
+• Proficient in statistical programming tools such as Python, R and SQL
+• Strong knowledge of Big Data tools (Spark, Hadoop), AWS cloud computing (EC2, EMR, S3, Redshift) and databases (Oracle, Redshift, MySQL)
+• Experience with visualization tools (Tableau, Matplotlib, ggplot2)
+• Excellent analytical and problem-solving skills
+• Bilingual English and French 
 
 ### Markdown
 

@@ -29,11 +29,6 @@ My [Resume](https://drive.google.com/file/d/1atQGP0nNCwwhLvURgtV_-ax-SNvYy4_O/vi
 
 In this project I wanted to analyze a group chat on WhatsApp. I had to clean and manipulate the data first using REGEX package. Then I explored the dataset and I found some interesting results.
 
-![alt text](image.jpg)
-
-![alt text](image.jpg)
-
-
 ## Housing Market, Web scrapping & Analysis
 ### Data Collection, Analysis, Visualisation and Machine Learning
 ### [Medium Article - How to Scrap the Housing Market](https://medium.com/datadriveninvestor/how-to-scrap-the-housing-market-9081a1610fea?source=friends_link&sk=922dee31b18d73dbc03b1ff17dbffba0) 
@@ -44,7 +39,7 @@ Used web scrapping tool to extract data with Beautiful soup
 - Cleaned and manipulated data sets using Pandas
 - Interpreted results using pandas, matplot and statistical tests
 
-![alt text](images/craig_list_page.png)
+![Craiglist](images/craig_list_page.png "Craiglist")
 
 
 

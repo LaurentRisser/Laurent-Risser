@@ -29,6 +29,14 @@ My [Resume](https://drive.google.com/file/d/1atQGP0nNCwwhLvURgtV_-ax-SNvYy4_O/vi
 
 In this project I wanted to analyze a group chat on WhatsApp. I had to clean and manipulate the data first using REGEX package. Then I explored the dataset and I found some interesting results.
 
+![Messages](images/messages_per_day.png "Number of messages per day")
+
+![radar plot](images/radar_plot.png "Radar Plot")
+
+![wordcloud](images/word_cloud.png "Word cloud")
+
+
+
 ## Housing Market, Web scrapping & Analysis
 ### Data Collection, Analysis, Visualisation and Machine Learning
 ### [Medium Article - How to Scrap the Housing Market](https://medium.com/datadriveninvestor/how-to-scrap-the-housing-market-9081a1610fea?source=friends_link&sk=922dee31b18d73dbc03b1ff17dbffba0) 
@@ -41,13 +49,19 @@ Used web scrapping tool to extract data with Beautiful soup
 
 ![Craiglist](images/craig_list_page.png "Craiglist")
 
+![bedroom](images/bedrooms.png "bedroom")
 
+![Price vs Square](images/price vs square.png "Price vs Square Footage Colored by Number of Bedrooms")
 
 ## Social Analysis with Twitter Data
 ### Data Engineering and AWS
 ### [Medium Article - How to Create a Dataset with Twitter and Cloud Computing](https://towardsdatascience.com/how-to-create-a-dataset-with-twitter-and-cloud-computing-fcd82837d313?source=friends_link&sk=b56db9035ff3e59a68fbc19fbf211539) 
 
 In this project I setup an ETL flow from the Twitter API to an S3 bucket. I used different services from AWS and I manipulated data by using Python and Shell languages.
+
+![ETL](images/ETL.png "ETL")
+
+
 
 ## Predicting flight delays in the U.S.
 ### Data Analysis and Machine Learning
@@ -58,3 +72,9 @@ Cleaned data sets on Python using Pandas
 - Used Machine learning (Decision) to predict delays
 - Visualized the data using Matplolib, Seaborn, Basemap
 - Published an article on Medium
+
+![US airports map](images/US_map.png "US airports map")
+
+![Delays throughout one day](images/departure_time.png "Delays throughout one day")
+
+

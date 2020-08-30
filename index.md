@@ -40,6 +40,10 @@ In this project I wanted to analyze a group chat on WhatsApp. I had to clean and
 ### [Medium Article - House Pricing in Toronto, Exploratory Data Analysis and Correlations](https://medium.com/datadriveninvestor/house-pricing-in-toronto-exploratory-data-analysis-and-correlations-45d2f11475f4?source=friends_link&sk=86f7cc2f3b0dc90b3b4aa5f152c82d6e) 
 
 In this project I extracted the data using beautil soup through web scrapping and also cleaned and manipulated the data using Pandas.
+Used web scrapping tool to extract data with Beautiful soup
+- Cleaned and manipulated data sets using Pandas
+- Interpreted results using pandas, matplot and statistical tests
+
 
 ## Social Analysis with Twitter Data
 ### Data Engineering and AWS
@@ -50,3 +54,9 @@ In this project I setup an ETL flow from the Twitter API to an S3 bucket. I used
 ## Predicting flight delays in the U.S.
 ### Data Analysis and Machine Learning
 ### [Medium Article - Will your flight be late?](https://medium.com/analytics-vidhya/will-your-flight-be-late-36818ffe52b3?source=friends_link&sk=b12b06c3463c125b1370650e8b52bc9f) 
+
+Cleaned data sets on Python using Pandas
+- Built linear and polynomial models using Scikit-Learn and Numpy
+- Used Machine learning (Decision) to predict delays
+- Visualized the data using Matplolib, Seaborn, Basemap
+- Published an article on Medium

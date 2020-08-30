@@ -44,7 +44,7 @@ Used web scrapping tool to extract data with Beautiful soup
 - Cleaned and manipulated data sets using Pandas
 - Interpreted results using pandas, matplot and statistical tests
 
-![alt text](https://github.com/walkyrie67/Laurent-Risser/blob/gh-pages/images/craig_list_page.png)
+![alt text](images/craig_list_page.png)
 
 
 

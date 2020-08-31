@@ -51,7 +51,7 @@ In this project I extracted the data using beautil soup through web scrapping an
 ### Data Engineering and AWS
 ### [Medium Article - How to Create a Dataset with Twitter and Cloud Computing](https://towardsdatascience.com/how-to-create-a-dataset-with-twitter-and-cloud-computing-fcd82837d313?source=friends_link&sk=b56db9035ff3e59a68fbc19fbf211539)
 
-### [Githup repo](https://github.com/walkyrie67/toronto_housing_webscraping/tree/master)
+### [Githup repo](https://github.com/walkyrie67/project2_big_data_gilets_jaunes)
 
 In this project I setup an ETL flow from the Twitter API to an S3 bucket. I use different services from AWS and I manipulated data by using Python and Shell languages.
 

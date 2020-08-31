@@ -29,7 +29,7 @@ This portfolio is a compilation of projects which I created for data analysis or
 ## Get to know your friends with Natural Language Processing (NLP)
 ### Project Type: Data Cleaning, Visualisation and Data Analysis
 
-In this project worked on a group chat on WhatsApp. I collected, cleaned and analyzed the data through a few plots done with Plotly. 
+In this project I use the unstructured data from a group chat on WhatsApp. I show how to transform the unstructured data to structured data. I analyze the data through a few plots done with Plotly and I provide a few interesting insights about the users in this group.
 
 ### [Medium Article - Get to know your friends with Natural Language Processing (NLP)](https://towardsdatascience.com/get-to-know-your-friends-with-natural-language-processing-nlp-38a1f6e56e09) 
 
@@ -40,7 +40,7 @@ In this project worked on a group chat on WhatsApp. I collected, cleaned and ana
 ## Housing Market, Web scrapping & Analysis
 ### Project Type: Data Collection, Analysis, Visualisation and Machine Learning
 
-In this project I extracted the data using beautil soup through web scrapping and also cleaned and manipulated the data using Pandas. Then, I analyze the data and identify some trends in the market and give a few recommendations for potential renters.
+In this project I extract the data using Beautil Soup library. I clean and manipulate the data using Pandas to end up with a structured data frame. Then, I analyze the data and identify some trends in the housing market and give a few recommendations for potential renters.
 
 ### [Medium Article - How to Scrap the Housing Market](https://medium.com/datadriveninvestor/how-to-scrap-the-housing-market-9081a1610fea?source=friends_link&sk=922dee31b18d73dbc03b1ff17dbffba0) 
 ### [Medium Article - House Pricing in Toronto, Exploratory Data Analysis and Correlations](https://medium.com/datadriveninvestor/house-pricing-in-toronto-exploratory-data-analysis-and-correlations-45d2f11475f4?source=friends_link&sk=86f7cc2f3b0dc90b3b4aa5f152c82d6e) 
@@ -53,6 +53,8 @@ In this project I extracted the data using beautil soup through web scrapping an
 ### Project Type: Data Engineering and AWS
 
 In this project I setup an ETL flow from the Twitter API to an S3 bucket. I use different services from AWS and I manipulated data by using Python and Shell languages.
+I first setup a dev account on Twitter, then I started an EC2 instance on AWS using a python script to grab all the tweets with #giletsjaunes.
+Next I linked the EC2 to AWS Kinesis and then to S3.
 
 ### [Medium Article - How to Create a Dataset with Twitter and Cloud Computing](https://towardsdatascience.com/how-to-create-a-dataset-with-twitter-and-cloud-computing-fcd82837d313?source=friends_link&sk=b56db9035ff3e59a68fbc19fbf211539)
 

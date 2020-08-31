@@ -27,7 +27,7 @@ My [Resume](https://drive.google.com/file/d/1atQGP0nNCwwhLvURgtV_-ax-SNvYy4_O/vi
 This portfolio is a compilation of projects which I created for data analysis or for exploration of machine learning algorithms. 
 
 ## Get to know your friends with Natural Language Processing (NLP)
-### Data Cleaning, Visualisation and Data Analysis
+### Project Type: Data Cleaning, Visualisation and Data Analysis
 ### [Medium Article - Get to know your friends with Natural Language Processing (NLP)](https://towardsdatascience.com/get-to-know-your-friends-with-natural-language-processing-nlp-38a1f6e56e09) 
 
 ### [Githup repo](https://github.com/walkyrie67/whatsapp_analysis)
@@ -37,7 +37,7 @@ In this project worked on a group chat on WhatsApp. I collected, cleaned and ana
 ![wordcloud](images/word_cloud.png "Word cloud")
 
 ## Housing Market, Web scrapping & Analysis
-### Data Collection, Analysis, Visualisation and Machine Learning
+### Project Type: Data Collection, Analysis, Visualisation and Machine Learning
 ### [Medium Article - How to Scrap the Housing Market](https://medium.com/datadriveninvestor/how-to-scrap-the-housing-market-9081a1610fea?source=friends_link&sk=922dee31b18d73dbc03b1ff17dbffba0) 
 ### [Medium Article - House Pricing in Toronto, Exploratory Data Analysis and Correlations](https://medium.com/datadriveninvestor/house-pricing-in-toronto-exploratory-data-analysis-and-correlations-45d2f11475f4?source=friends_link&sk=86f7cc2f3b0dc90b3b4aa5f152c82d6e) 
 
@@ -45,10 +45,10 @@ In this project worked on a group chat on WhatsApp. I collected, cleaned and ana
 
 In this project I extracted the data using beautil soup through web scrapping and also cleaned and manipulated the data using Pandas. Then, I analyze the data and identify some trends in the market and give a few recommendations for potential renters.
 
-![PricevsSquare](images/pricevssquare.png")
+![PricevsSquare](images/pricevssquare.png "PricevsSquare")
 
 ## Social Analysis with Twitter Data
-### Data Engineering and AWS
+### Project Type: Data Engineering and AWS
 ### [Medium Article - How to Create a Dataset with Twitter and Cloud Computing](https://towardsdatascience.com/how-to-create-a-dataset-with-twitter-and-cloud-computing-fcd82837d313?source=friends_link&sk=b56db9035ff3e59a68fbc19fbf211539)
 
 ### [Githup repo](https://github.com/walkyrie67/project2_big_data_gilets_jaunes)
@@ -58,7 +58,7 @@ In this project I setup an ETL flow from the Twitter API to an S3 bucket. I use 
 ![ETL](images/ETL.png "ETL")
 
 ## Predicting flight delays in the U.S.
-### Data Analysis and Machine Learning
+### Project Type: Data Analysis and Machine Learning
 ### [Medium Article - Will your flight be late?](https://medium.com/analytics-vidhya/will-your-flight-be-late-36818ffe52b3?source=friends_link&sk=b12b06c3463c125b1370650e8b52bc9f) 
 
 ### [Githup repo](https://github.com/walkyrie67/flight_delay_prediction/blob/master/-Copy1.ipynb)

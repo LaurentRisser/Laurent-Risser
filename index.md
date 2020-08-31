@@ -45,7 +45,7 @@ In this project worked on a group chat on WhatsApp. I collected, cleaned and ana
 
 In this project I extracted the data using beautil soup through web scrapping and also cleaned and manipulated the data using Pandas. Then, I analyze the data and identify some trends in the market and give a few recommendations for potential renters.
 
-![Price vs Square](images/price vs square.png "Price vs Square Footage Colored by Number of Bedrooms")
+![PricevsSquare](images/pricevssquare.png")
 
 ## Social Analysis with Twitter Data
 ### Data Engineering and AWS

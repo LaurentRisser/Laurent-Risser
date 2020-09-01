@@ -20,6 +20,8 @@ AWS Cloud Practitioner
 
 You can connect with my on LinkedIn [here](https://www.linkedin.com/in/risserl/)
 
+My [GitHub Profile ](https://github.com/walkyrie67)  
+
 My [Resume](https://drive.google.com/file/d/1atQGP0nNCwwhLvURgtV_-ax-SNvYy4_O/view?usp=sharing) 
 
 # My projects

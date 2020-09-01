@@ -37,15 +37,7 @@ In this project I use unstructured data from a group chat on WhatsApp. I show ho
 
 ### [Githup repo](https://github.com/walkyrie67/whatsapp_analysis)
 
-<img src="images/word_cloud.png" align="left" height="300" width="300">
-
-
-
-
-
-
-
-
+![word_cloud](images/word_cloud.png "word_cloud")
 
 ## Housing Market, Web scrapping & Analysis
 ### Project Type: Data Collection, Cleaning, Analysis, Visualisation and Machine Learning

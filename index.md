@@ -52,9 +52,9 @@ In this project I extract the data using Beautil Soup library. I clean and manip
 ## Social Analysis with Twitter Data
 ### Project Type: Data Engineering and AWS
 
-In this project I setup an ETL flow from the Twitter API to an S3 bucket. I use different services from AWS and I manipulated data by using Python and Shell languages.
-I first setup a dev account on Twitter, then I started an EC2 instance on AWS using a python script to grab all the tweets with #giletsjaunes.
-Next I linked the EC2 to AWS Kinesis and then to S3.
+In this project I setup an ETL flow from the Twitter API to an S3 bucket. I use different services from AWS and I manipulate data by using Python and Shell languages.
+I first setup a dev account on Twitter, then I start an EC2 instance on AWS using a python script to grab all the tweets with #giletsjaunes.
+Next I link the EC2 to AWS Kinesis and then to S3. I end up with an automatic flow between Twitter to S3 bucket
 
 ### [Medium Article - How to Create a Dataset with Twitter and Cloud Computing](https://towardsdatascience.com/how-to-create-a-dataset-with-twitter-and-cloud-computing-fcd82837d313?source=friends_link&sk=b56db9035ff3e59a68fbc19fbf211539)
 

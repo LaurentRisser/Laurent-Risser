@@ -28,7 +28,7 @@ My [Resume](https://drive.google.com/file/d/1atQGP0nNCwwhLvURgtV_-ax-SNvYy4_O/vi
 
 This portfolio is a compilation of projects which I created using a wide range of data science tools for data analysis and predictions.
 
-<img src="images/word_cloud.png" align="left" height="100" width="100">
+<img src="images/word_cloud.png" align="left" height="300" width="300">
 
 ## Transform, explore and analyze a group chat on Whatsapp with NLP
 ### Project Type: Data Cleaning, Visualisation and Data Analysis

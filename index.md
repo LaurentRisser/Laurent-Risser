@@ -28,8 +28,6 @@ My [Resume](https://drive.google.com/file/d/1atQGP0nNCwwhLvURgtV_-ax-SNvYy4_O/vi
 
 This portfolio is a compilation of projects which I created using a wide range of data science tools for data analysis and predictions.
 
-<img src="images/word_cloud.png" align="left" height="300" width="300">
-
 ## Transform, explore and analyze a group chat on Whatsapp with NLP
 ### Project Type: Data Cleaning, Visualisation and Data Analysis
 
@@ -38,6 +36,16 @@ In this project I use unstructured data from a group chat on WhatsApp. I show ho
 ### [Medium Article - Get to know your friends with Natural Language Processing (NLP)](https://towardsdatascience.com/get-to-know-your-friends-with-natural-language-processing-nlp-38a1f6e56e09) 
 
 ### [Githup repo](https://github.com/walkyrie67/whatsapp_analysis)
+
+<img src="images/word_cloud.png" align="left" height="300" width="300">
+
+
+
+
+
+
+
+
 
 ## Housing Market, Web scrapping & Analysis
 ### Project Type: Data Collection, Cleaning, Analysis, Visualisation and Machine Learning

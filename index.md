@@ -67,9 +67,9 @@ In this project I setup an ETL flow from the Twitter API to an S3 bucket. I use 
 
 In this project, I develop a model aimed at predicting flight delays at take-off. I comment on the importance of the separation of the dataset during the training stage and how cross-validation helps determine accurate model parameters. I show how to build linear and polynomial models for univariate or multivariate regressions.
 
-### [Medium Article - Will your flight be late?](https://medium.com/analytics-vidhya/will-your-flight-be-late-36818ffe52b3?source=friends_link&sk=b12b06c3463c125b1370650e8b52bc9f) 
+[Medium Article - Will your flight be late?](https://medium.com/analytics-vidhya/will-your-flight-be-late-36818ffe52b3?source=friends_link&sk=b12b06c3463c125b1370650e8b52bc9f) 
 
-### [Githup repo](https://github.com/walkyrie67/flight_delay_prediction/blob/master/-Copy1.ipynb)
+[Githup repo](https://github.com/walkyrie67/flight_delay_prediction/blob/master/-Copy1.ipynb)
 
 ![Delays throughout one day](images/departure_time.png "Delays throughout one day")
 

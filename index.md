@@ -33,9 +33,9 @@ This portfolio is a compilation of projects which I created using a wide range o
 
 In this project I use unstructured data from a group chat on WhatsApp. I show how to transform the unstructured data to structured data and provide different visualisations of the data through plots done with Plotly. Finally, I provide interesting insights about the users in this group.
 
-### [Medium Article - Get to know your friends with Natural Language Processing (NLP)](https://towardsdatascience.com/get-to-know-your-friends-with-natural-language-processing-nlp-38a1f6e56e09) 
+[Medium Article - Get to know your friends with Natural Language Processing (NLP)](https://towardsdatascience.com/get-to-know-your-friends-with-natural-language-processing-nlp-38a1f6e56e09) 
 
-### [Githup repo](https://github.com/walkyrie67/whatsapp_analysis)
+[Githup repo](https://github.com/walkyrie67/whatsapp_analysis)
 
 ![word_cloud](images/word_cloud.png "word_cloud")
 
@@ -44,10 +44,10 @@ In this project I use unstructured data from a group chat on WhatsApp. I show ho
 
 In this project I extract the data using Beautiful Soup library. I clean and manipulate the data using Pandas to end up with a structured data frame. Then, I analyze the data and identify interesting trends in the housing market and give a few recommendations for potential renters.
 
-### [Medium Article - How to Scrap the Housing Market](https://medium.com/datadriveninvestor/how-to-scrap-the-housing-market-9081a1610fea?source=friends_link&sk=922dee31b18d73dbc03b1ff17dbffba0) 
-### [Medium Article - House Pricing in Toronto, Exploratory Data Analysis and Correlations](https://medium.com/datadriveninvestor/house-pricing-in-toronto-exploratory-data-analysis-and-correlations-45d2f11475f4?source=friends_link&sk=86f7cc2f3b0dc90b3b4aa5f152c82d6e) 
+[Medium Article - How to Scrap the Housing Market](https://medium.com/datadriveninvestor/how-to-scrap-the-housing-market-9081a1610fea?source=friends_link&sk=922dee31b18d73dbc03b1ff17dbffba0) 
+[Medium Article - House Pricing in Toronto, Exploratory Data Analysis and Correlations](https://medium.com/datadriveninvestor/house-pricing-in-toronto-exploratory-data-analysis-and-correlations-45d2f11475f4?source=friends_link&sk=86f7cc2f3b0dc90b3b4aa5f152c82d6e) 
 
-### [Githup repo](https://github.com/walkyrie67/toronto_housing_webscraping/tree/master)
+[Githup repo](https://github.com/walkyrie67/toronto_housing_webscraping/tree/master)
 
 ![PricevsSquare](images/pricevssquare.png "PricevsSquare")
 
@@ -56,9 +56,9 @@ In this project I extract the data using Beautiful Soup library. I clean and man
 
 In this project I setup an ETL flow from the Twitter API to an S3 bucket. I use different services from AWS and I manipulate the Python and Shell scripts.
 
-### [Medium Article - How to Create a Dataset with Twitter and Cloud Computing](https://towardsdatascience.com/how-to-create-a-dataset-with-twitter-and-cloud-computing-fcd82837d313?source=friends_link&sk=b56db9035ff3e59a68fbc19fbf211539)
+[Medium Article - How to Create a Dataset with Twitter and Cloud Computing](https://towardsdatascience.com/how-to-create-a-dataset-with-twitter-and-cloud-computing-fcd82837d313?source=friends_link&sk=b56db9035ff3e59a68fbc19fbf211539)
 
-### [Githup repo](https://github.com/walkyrie67/project2_big_data_gilets_jaunes)
+[Githup repo](https://github.com/walkyrie67/project2_big_data_gilets_jaunes)
 
 ![ETL](images/ETL.png "ETL")
 

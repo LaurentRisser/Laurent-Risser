@@ -22,7 +22,7 @@ You can connect with me on LinkedIn [here](https://www.linkedin.com/in/risserl/)
 
 My [GitHub Profile ](https://github.com/walkyrie67)  
 
-My [Resume](https://drive.google.com/file/d/1atQGP0nNCwwhLvURgtV_-ax-SNvYy4_O/view?usp=sharing) 
+My [Resume](https://drive.google.com/file/d/10e9pcZ5XdpWOj6IKmq0oM7TWvdz5dl-7/view?usp=sharing) 
 
 # My projects
 

@@ -54,9 +54,13 @@ In this project I extract the data using Beautiful Soup library. I clean and man
 ## Social Analysis with Twitter Data
 ### Project Type: Data Engineering and AWS
 
-In this project I setup an ETL flow from the Twitter API to an S3 bucket. I use different services from AWS and I manipulate the Python and Shell scripts.
+In this project I setup an ETL flow from the Twitter API to a dashboard running on Elasticsearch. I use different services from AWS and I manipulate the Python and Shell scripts.
+The first part of this pipeline is Twitter API -> EC2 -> Kinesis -> S3
 
 [Medium Article - How to Create a Dataset with Twitter and Cloud Computing](https://towardsdatascience.com/how-to-create-a-dataset-with-twitter-and-cloud-computing-fcd82837d313?source=friends_link&sk=b56db9035ff3e59a68fbc19fbf211539)
+
+The second part of the project is S3 -> AWS Lambda -> ElasticSearch(Kibana)
+My python script in AWS lambda is copy the new file created in S3 every minute and paste it into ElasticSearch. To display the results nicely, I setup a near live dashboard.
 
 [Githup repo](https://github.com/walkyrie67/project2_big_data_gilets_jaunes)
 

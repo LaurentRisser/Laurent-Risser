@@ -62,6 +62,10 @@ In this project I setup an ETL flow from the Twitter API to an S3 bucket. I use 
 
 ![ETL](images/ETL.png "ETL")
 
+![Dashboard1](images/dashboard1.png "Dashboard1")
+
+![Dashboard2](images/dashboard2.png "Dashboard2")
+
 ## Predicting flight delays in the U.S.
 ### Project Type: Data Visualisation, Analysis and Machine Learning
 

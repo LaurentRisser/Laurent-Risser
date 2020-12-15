@@ -68,7 +68,7 @@ My python script in AWS lambda is copy the new file created in S3 every minute a
 
 [Githup repo](https://github.com/walkyrie67/project2_big_data_gilets_jaunes)
 
-![ETL](images/ETL.png "ETL")
+![ETL](images/Screen Shot 2020-12-14 at 9.30.57 AM.png "ETL")
 
 ![Dashboard1](images/dashboard1.png "Dashboard1")
 

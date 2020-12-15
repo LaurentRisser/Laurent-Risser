@@ -60,7 +60,7 @@ The first part of this pipeline is Twitter API -> EC2 -> Kinesis -> S3
 
 [Medium Article - How to Create a Dataset with Twitter and Cloud Computing](https://towardsdatascience.com/how-to-create-a-dataset-with-twitter-and-cloud-computing-fcd82837d313?source=friends_link&sk=b56db9035ff3e59a68fbc19fbf211539)
 
-[How to monitor a political movement on Twitter using AWS](https://towardsdatascience.com/create-a-near-live-dashboard-using-twitter-and-aws-18879952e309)
+[Medium Article - How to monitor a political movement on Twitter using AWS](https://towardsdatascience.com/create-a-near-live-dashboard-using-twitter-and-aws-18879952e309)
 
 
 The second part of the project is S3 -> AWS Lambda -> ElasticSearch(Kibana)

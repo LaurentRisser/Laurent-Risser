@@ -28,6 +28,23 @@ My [Resume](https://drive.google.com/file/d/10e9pcZ5XdpWOj6IKmq0oM7TWvdz5dl-7/vi
 
 This portfolio is a compilation of projects which I created using a wide range of data science tools for data analysis and predictions.
 
+## How to setup a fully ETL on AWS using Twitter API
+### Project Type: Data Engineering and AWS
+
+This is the capstone project I did during the Big Data for Data Scientist class at WeCloudData. I fully designed a ETL pipeline, the tweets are taking from Twitter and are going through different services (EC2, Kinesis, S3, AWS Lambda, ELasticSearch) to finally arrive on live dashboard created on Kibana.
+
+[Medium Article - How to Create a Dataset with Twitter and Cloud Computing](https://towardsdatascience.com/how-to-create-a-dataset-with-twitter-and-cloud-computing-fcd82837d313?source=friends_link&sk=b56db9035ff3e59a68fbc19fbf211539)
+
+[Medium Article - How to monitor a political movement on Twitter using AWS](https://towardsdatascience.com/create-a-near-live-dashboard-using-twitter-and-aws-18879952e309)
+
+[Githup repo](https://github.com/walkyrie67/project2_big_data_gilets_jaunes)
+
+![ETL2](images/ETL2.png "ETL")
+
+![Dashboard1](images/dashboard1.png "Dashboard1")
+
+![Dashboard2](images/dashboard2.png "Dashboard2")
+
 ## Transform, explore and analyze a group chat on Whatsapp with NLP
 ### Project Type: Data Cleaning, Visualisation and Data Analysis
 
@@ -51,28 +68,6 @@ In this project I extract the data using Beautiful Soup library. I clean and man
 [Githup repo](https://github.com/walkyrie67/toronto_housing_webscraping/tree/master)
 
 ![PricevsSquare](images/pricevssquare.png "PricevsSquare")
-
-## Social Analysis with Twitter Data
-### Project Type: Data Engineering and AWS
-
-In this project I setup an ETL flow from the Twitter API to a dashboard running on Elasticsearch. I use different services from AWS and I manipulate the Python and Shell scripts.
-The first part of this pipeline is Twitter API -> EC2 -> Kinesis -> S3
-
-[Medium Article - How to Create a Dataset with Twitter and Cloud Computing](https://towardsdatascience.com/how-to-create-a-dataset-with-twitter-and-cloud-computing-fcd82837d313?source=friends_link&sk=b56db9035ff3e59a68fbc19fbf211539)
-
-[Medium Article - How to monitor a political movement on Twitter using AWS](https://towardsdatascience.com/create-a-near-live-dashboard-using-twitter-and-aws-18879952e309)
-
-
-The second part of the project is S3 -> AWS Lambda -> ElasticSearch(Kibana)
-My python script in AWS lambda is copy the new file created in S3 every minute and paste it into ElasticSearch. To display the results nicely, I setup a near live dashboard.
-
-[Githup repo](https://github.com/walkyrie67/project2_big_data_gilets_jaunes)
-
-![ETL](images/Screen Shot 2020-12-14 at 9.30.57 AM.png "ETL")
-
-![Dashboard1](images/dashboard1.png "Dashboard1")
-
-![Dashboard2](images/dashboard2.png "Dashboard2")
 
 ## Predicting flight delays in the U.S.
 ### Project Type: Data Visualisation, Analysis and Machine Learning

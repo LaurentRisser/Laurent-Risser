@@ -45,6 +45,7 @@ In this project I use unstructured data from a group chat on WhatsApp. I show ho
 In this project I extract the data using Beautiful Soup library. I clean and manipulate the data using Pandas to end up with a structured data frame. Then, I analyze the data and identify interesting trends in the housing market and give a few recommendations for potential renters.
 
 [Medium Article - How to Scrap the Housing Market](https://medium.com/datadriveninvestor/how-to-scrap-the-housing-market-9081a1610fea?source=friends_link&sk=922dee31b18d73dbc03b1ff17dbffba0) 
+
 [Medium Article - House Pricing in Toronto, Exploratory Data Analysis and Correlations](https://medium.com/datadriveninvestor/house-pricing-in-toronto-exploratory-data-analysis-and-correlations-45d2f11475f4?source=friends_link&sk=86f7cc2f3b0dc90b3b4aa5f152c82d6e) 
 
 [Githup repo](https://github.com/walkyrie67/toronto_housing_webscraping/tree/master)
@@ -58,6 +59,9 @@ In this project I setup an ETL flow from the Twitter API to a dashboard running 
 The first part of this pipeline is Twitter API -> EC2 -> Kinesis -> S3
 
 [Medium Article - How to Create a Dataset with Twitter and Cloud Computing](https://towardsdatascience.com/how-to-create-a-dataset-with-twitter-and-cloud-computing-fcd82837d313?source=friends_link&sk=b56db9035ff3e59a68fbc19fbf211539)
+
+[How to monitor a political movement on Twitter using AWS](https://towardsdatascience.com/create-a-near-live-dashboard-using-twitter-and-aws-18879952e309)
+
 
 The second part of the project is S3 -> AWS Lambda -> ElasticSearch(Kibana)
 My python script in AWS lambda is copy the new file created in S3 every minute and paste it into ElasticSearch. To display the results nicely, I setup a near live dashboard.

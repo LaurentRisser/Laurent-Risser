@@ -1,0 +1,303 @@
+$border-radius: 5px;
+
+:root {
+  --text-color: #fff;
+  --text-accent-color: darksalmon;
+  --link-color: darkorange;
+  --bg-1: #f27121;
+  --bg-2: #e94057;
+  --bg-3: #8a2387;
+  --bg-1-social: #f3a183;
+  --bg-2-social: #ec6f66;
+  --username-color: cadetblue;
+  --terminal-bg: rgba(56, 4, 40, 0.9);
+  --terminal-header-bg: #bbb;
+}
+
+body {
+  &.dark-mode {
+      --text-accent-color: #ffca85;
+      --link-color: burlywood;
+      --bg-1: #211F20;
+      --bg-2: #292D34;
+      --bg-3: #213030;
+      --bg-1-social: #414141;
+      --bg-2-social: #485461;
+      --username-color: #858585;
+      --terminal-bg: rgb(0 0 0 / 90%);
+      --terminal-header-bg: #585252;
+  }
+  box-sizing: border-box;
+  margin: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background: var(--bg-3); /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+                  to right,
+                  var(--bg-1),
+                  var(--bg-2),
+                  var(--bg-3)
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+                  to right,
+                  var(--bg-1),
+                  var(--bg-2),
+                  var(--bg-3)
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+ul {
+  margin: 0;
+}
+
+.terminal {
+  position: absolute;
+  resize: both;
+  overflow: hidden;
+  height: 450px;
+  width: min(900px, 90vw);
+
+  .terminal__header {
+    height: 25px;
+    padding: 0 8px;
+    background-color: var(--terminal-header-bg);
+    margin: 0 auto;
+    border-top-right-radius: $border-radius;
+    border-top-left-radius: $border-radius;
+    cursor: move;
+
+    .fake-button {
+      height: 10px;
+      width: 10px;
+      border-radius: 50%;
+      border: 1px solid #000;
+      position: relative;
+      top: 6px;
+      left: 6px;
+      display: inline-block;
+      cursor: pointer;
+
+      &.fake-close {
+        left: 6px;
+        background-color: #ff3b47;
+        border-color: #9d252b;
+      }
+
+      &.fake-minimize {
+        left: 11px;
+        background-color: #ffc100;
+        border-color: #9d802c;
+      }
+
+      &.fake-zoom {
+        left: 16px;
+        background-color: #00d742;
+        border-color: #049931;
+      }
+    }
+  }
+
+  .terminal__body {
+    font-family: "Ubuntu Mono", monospace;
+    background: var(--terminal-bg);
+    color: var(--text-color);
+    padding: 8px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px,
+    rgba(0, 0, 0, 0.1) 0px 2px 4px 0px,
+    rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+    border-bottom-right-radius: $border-radius;
+    border-bottom-left-radius: $border-radius;
+    height: calc(100% - 41px);
+
+    code {
+      color: var(--text-accent-color);
+      font-size: 14px;
+    }
+
+    .terminal__banner {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      color: var(--text-color);
+
+      .terminal__author {
+        text-align: right;
+      }
+    }
+
+    .terminal__line {
+      margin-bottom: 8px;
+
+      &::before {
+        content: "Laurent Risser ~$ ";
+        color: var(--username-color);
+      }
+
+      input[type="text"] {
+        background: none;
+        border: none;
+        font-family: "Ubuntu Mono", monospace;
+        color: var(--text-color);
+        outline: none;
+        font-size: 15px;
+        width: calc(100% - 150px);
+      }
+    }
+
+    .terminal__response {
+      margin: 8px 0 16px 0;
+
+      table {
+        border: 1px dashed;
+        padding: 4px;
+        width: 100%;
+
+        a {
+          text-decoration: none;
+          color: darkorange;
+        }
+
+        thead {
+          th {
+            font-weight: normal;
+            color: cadetblue;
+            border-bottom: 1px solid white;
+            padding-bottom: 4px;
+          }
+        }
+
+        tbody {
+          td {
+            padding: 4px;
+          }
+
+          tr:not(:last-child) {
+            td {
+              border-bottom: 1px solid white;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.socials {
+  position: absolute;
+  right: 16px;
+  bottom: 16px;
+  display: flex;
+  gap: 16px;
+
+  a {
+    border-radius: 50%;
+    background: var(--bg-2-social); /* fallback for old browsers */
+    background: -webkit-linear-gradient(
+                    to left,
+                    var(--bg-1-social),
+                    var(--bg-2-social)
+    ); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(
+                    to left,
+                    var(--bg-1-social),
+                    var(--bg-2-social)
+    ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    width: 4em;
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    &:hover {
+      background: var(--bg-2-social); /* fallback for old browsers */
+      background: -webkit-linear-gradient(
+                      to right,
+                      var(--bg-1-social),
+                      var(--bg-2-social)
+      ); /* Chrome 10-25, Safari 5.1-6 */
+      background: linear-gradient(
+                      to right,
+                      var(--bg-1-social),
+                      var(--bg-2-social)
+      ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+      box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+      width: 4em;
+      height: 4em;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-decoration: none;
+    }
+    i {
+      color: white;
+      font-size: 2em;
+    }
+  }
+}
+
+#banner-github {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+@media (max-width: 880px) {
+  .terminal .terminal__body {
+    .terminal__banner {
+      pre {
+        font-size: 10px;
+      }
+    }
+  }
+}
+
+@media (max-width: 640px) {
+  body {
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+  }
+
+  .terminal {
+    position: unset;
+    width: unset;
+    height: unset;
+    resize: none;
+    .terminal__body {
+      max-width: unset;
+      width: 90vw;
+      height: 70vh;
+
+      .terminal__banner {
+        pre {
+          font-size: 5px;
+        }
+      }
+    }
+  }
+  .socials {
+    font-size: 13px;
+    position: relative;
+    bottom: unset;
+    right: unset;
+  }
+  #banner-github {
+    img {
+      width: 100px;
+      height: 100px;
+    }
+  }
+  #version {
+    top: 38px;
+    right: 38px;
+    font-size: 13px;
+  }
+}
+
+@import "snowflakes";
